@@ -4,7 +4,7 @@
 
 
 # static fields
-.field private static ENABLE_DEBUG_LOG:Z = false
+.field private static ENABLE_DEBUG_LOG:Z
 
 
 # direct methods

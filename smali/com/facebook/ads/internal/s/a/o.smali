@@ -5,7 +5,7 @@
 # static fields
 .field private static final a:Ljava/lang/String; = "o"
 
-.field private static volatile b:Z = false
+.field private static volatile b:Z
 
 .field private static c:D
 

@@ -88,11 +88,11 @@
 
 .field private static volatile facebookDomain:Ljava/lang/String; = "facebook.com"
 
-.field private static graphApiVersion:Ljava/lang/String; = null
+.field private static graphApiVersion:Ljava/lang/String;
 
-.field private static volatile isDebugEnabled:Z = false
+.field private static volatile isDebugEnabled:Z
 
-.field private static isLegacyTokenUpgradeSupported:Z = false
+.field private static isLegacyTokenUpgradeSupported:Z
 
 .field private static final loggingBehaviors:Ljava/util/HashSet;
     .annotation system Ldalvik/annotation/Signature;

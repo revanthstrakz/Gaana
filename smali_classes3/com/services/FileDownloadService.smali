@@ -4,13 +4,13 @@
 
 
 # static fields
-.field public static a:Lcom/services/l$ae; = null
+.field public static a:Lcom/services/l$ae;
 
-.field public static b:Lcom/services/l$bd; = null
+.field public static b:Lcom/services/l$bd;
 
-.field private static c:J = 0x0L
+.field private static c:J
 
-.field private static d:Z = false
+.field private static d:Z
 
 
 # instance fields

@@ -16,7 +16,7 @@
 # static fields
 .field private static final zzdn:Ljava/lang/Object;
 
-.field private static zzdo:Z = false
+.field private static zzdo:Z
 
 .field private static volatile zzdp:Ljava/lang/Boolean;
 

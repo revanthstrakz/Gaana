@@ -11,11 +11,11 @@
 
 .field private static final e:Ljava/lang/String; = "m"
 
-.field private static f:Lcom/inmobi/a/m; = null
+.field private static f:Lcom/inmobi/a/m;
 
 .field private static final g:Ljava/lang/Object;
 
-.field private static h:Z = false
+.field private static h:Z
 
 
 # instance fields

@@ -13,13 +13,13 @@
 
 
 # static fields
-.field public static a:Z = false
+.field public static a:Z
 
-.field public static b:Ljava/lang/String; = null
+.field public static b:Ljava/lang/String;
 
-.field public static c:J = 0x0L
+.field public static c:J
 
-.field public static d:Z = false
+.field public static d:Z
 
 .field private static i:Lcom/managers/f;
 

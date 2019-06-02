@@ -339,7 +339,7 @@
 
 .field static d:Ljava/lang/String; = ""
 
-.field static e:Landroid/content/Context; = null
+.field static e:Landroid/content/Context;
     .annotation build Landroid/annotation/SuppressLint;
         value = {
             "StaticFieldLeak"
@@ -347,15 +347,15 @@
     .end annotation
 .end field
 
-.field static f:Ljava/lang/String; = null
+.field static f:Ljava/lang/String;
 
-.field static g:Lcom/j/a/e; = null
+.field static g:Lcom/j/a/e;
 
 .field private static final h:I
 
-.field private static i:Lcom/j/a/d; = null
+.field private static i:Lcom/j/a/d;
 
-.field private static j:Z = false
+.field private static j:Z
 
 .field private static k:Z
 

@@ -15,9 +15,9 @@
 
 
 # static fields
-.field private static a:Z = false
+.field private static a:Z
 
-.field public static hasToStart:Z = false
+.field public static hasToStart:Z
 
 .field public static snoozeImageDownloadTimeout:I
 

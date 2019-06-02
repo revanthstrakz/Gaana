@@ -36,7 +36,7 @@
 
 .field private static final h:Ljava/lang/String; = "personaUrl"
 
-.field private static i:Ljava/util/Map; = null
+.field private static i:Ljava/util/Map;
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/Map<",
@@ -47,15 +47,15 @@
     .end annotation
 .end field
 
-.field private static j:Lcom/til/colombia/android/internal/HttpClient/b; = null
+.field private static j:Lcom/til/colombia/android/internal/HttpClient/b;
 
-.field private static k:Z = false
+.field private static k:Z
 
-.field private static l:Z = false
+.field private static l:Z
 
-.field private static m:Z = false
+.field private static m:Z
 
-.field private static n:Z = false
+.field private static n:Z
 
 
 # direct methods

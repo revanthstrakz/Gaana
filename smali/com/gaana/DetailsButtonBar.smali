@@ -22,7 +22,7 @@
 
 .field public static final START_RADIO_ID:I = 0x8
 
-.field public static optionStateCheckGaana:Z = false
+.field public static optionStateCheckGaana:Z
 
 
 # direct methods

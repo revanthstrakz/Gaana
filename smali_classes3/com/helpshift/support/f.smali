@@ -13,17 +13,17 @@
 
 
 # static fields
-.field static a:Lcom/helpshift/support/d; = null
+.field static a:Lcom/helpshift/support/d;
 
-.field static b:Lcom/helpshift/support/g; = null
+.field static b:Lcom/helpshift/support/g;
 
-.field static c:I = 0x0
+.field static c:I
 
-.field static d:I = 0x0
+.field static d:I
 
-.field static e:Z = false
+.field static e:Z
 
-.field static f:Z = false
+.field static f:Z
 
 .field private static g:Lcom/helpshift/support/f;
 

@@ -27,17 +27,17 @@
     .end annotation
 .end field
 
-.field private static e:Z = false
+.field private static e:Z
 
-.field private static f:Z = false
+.field private static f:Z
 
-.field private static g:Ljava/lang/String; = null
+.field private static g:Ljava/lang/String;
 
-.field private static h:Ljava/lang/String; = null
+.field private static h:Ljava/lang/String;
 
-.field private static i:Ljava/lang/String; = null
+.field private static i:Ljava/lang/String;
 
-.field private static j:Z = false
+.field private static j:Z
 
 .field private static k:Z
 

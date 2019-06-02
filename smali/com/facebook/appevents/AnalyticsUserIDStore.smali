@@ -8,7 +8,7 @@
 
 .field private static final TAG:Ljava/lang/String; = "AnalyticsUserIDStore"
 
-.field private static volatile initialized:Z = false
+.field private static volatile initialized:Z
 
 .field private static lock:Ljava/util/concurrent/locks/ReentrantReadWriteLock;
 

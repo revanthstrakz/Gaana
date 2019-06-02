@@ -11,7 +11,7 @@
 
 
 # static fields
-.field private static volatile zztf:Z = false
+.field private static volatile zztf:Z
 
 .field private static final zztg:Ljava/lang/Class;
     .annotation system Ldalvik/annotation/Signature;

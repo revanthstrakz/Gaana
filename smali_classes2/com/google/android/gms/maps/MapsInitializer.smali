@@ -3,7 +3,7 @@
 
 
 # static fields
-.field private static zzbl:Z = false
+.field private static zzbl:Z
 
 
 # direct methods

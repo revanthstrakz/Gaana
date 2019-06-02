@@ -211,6 +211,8 @@
     .line 84
     iput-wide v1, p0, Lcom/gaana/login/UserSubscriptionData;->lastUpdateTime:J
 
+    const/4 v0, 0x3
+
     .line 85
     iput v0, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
 
@@ -230,71 +232,7 @@
 .method public getAccountType()I
     .locals 3
 
-    .line 244
-    iget v0, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
-
-    const/4 v1, 0x3
-
-    const/4 v2, 0x2
-
-    if-eq v0, v2, :cond_0
-
-    iget v0, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
-
-    if-ne v0, v1, :cond_2
-
-    .line 245
-    :cond_0
-    new-instance v0, Ljava/util/Date;
-
-    invoke-direct {v0}, Ljava/util/Date;-><init>()V
-
-    .line 246
-    iget-object v2, p0, Lcom/gaana/login/UserSubscriptionData;->expiryDate:Ljava/util/Date;
-
-    if-eqz v2, :cond_2
-
-    iget-object v2, p0, Lcom/gaana/login/UserSubscriptionData;->expiryDate:Ljava/util/Date;
-
-    invoke-virtual {v2, v0}, Ljava/util/Date;->before(Ljava/util/Date;)Z
-
-    move-result v2
-
-    if-eqz v2, :cond_2
-
-    .line 248
-    iget v2, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
-
-    if-ne v2, v1, :cond_1
-
-    iget-object v2, p0, Lcom/gaana/login/UserSubscriptionData;->expiryDateWithGrace:Ljava/util/Date;
-
-    if-eqz v2, :cond_1
-
-    iget-object v2, p0, Lcom/gaana/login/UserSubscriptionData;->expiryDateWithGrace:Ljava/util/Date;
-
-    .line 250
-    invoke-virtual {v2, v0}, Ljava/util/Date;->before(Ljava/util/Date;)Z
-
-    move-result v0
-
-    if-nez v0, :cond_1
-
-    .line 251
-    iput v1, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
-
-    goto :goto_0
-
-    :cond_1
-    const/4 v0, 0x1
-
-    .line 253
-    iput v0, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
-
-    .line 257
-    :cond_2
-    :goto_0
-    iget v0, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
+    const/4 v0, 0x3
 
     return v0
 .end method
@@ -338,6 +276,10 @@
     .locals 1
 
     .line 196
+    const/4 v0, 0x0
+
+    iput-object v0, p0, Lcom/gaana/login/UserSubscriptionData;->expiryDate:Ljava/util/Date;
+
     iget-object v0, p0, Lcom/gaana/login/UserSubscriptionData;->expiryDate:Ljava/util/Date;
 
     return-object v0
@@ -972,6 +914,8 @@
     .locals 0
 
     .line 261
+    const/4 p1, 0x3
+
     iput p1, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I
 
     return-void
@@ -1020,6 +964,8 @@
     .locals 0
 
     .line 200
+    const/4 p1, 0x0
+
     iput-object p1, p0, Lcom/gaana/login/UserSubscriptionData;->expiryDate:Ljava/util/Date;
 
     return-void
@@ -1065,6 +1011,8 @@
     .locals 0
 
     .line 106
+    const-string p1, "paid"
+
     iput-object p1, p0, Lcom/gaana/login/UserSubscriptionData;->serverAccountType:Ljava/lang/String;
 
     return-void
@@ -1076,7 +1024,7 @@
     .line 230
     iget-object v0, p0, Lcom/gaana/login/UserSubscriptionData;->serverAccountType:Ljava/lang/String;
 
-    const/4 v1, 0x1
+    const/4 v1, 0x3
 
     if-eqz v0, :cond_2
 
@@ -1127,7 +1075,7 @@
 
     if-eqz v0, :cond_3
 
-    const/4 v0, 0x2
+    const/4 v0, 0x3
 
     .line 236
     iput v0, p0, Lcom/gaana/login/UserSubscriptionData;->accountType:I

@@ -26,13 +26,13 @@
 
 
 # static fields
-.field private static d:Z = false
+.field private static d:Z
 
-.field private static f:Lio/branch/referral/Branch; = null
+.field private static f:Lio/branch/referral/Branch;
 
-.field private static t:Z = false
+.field private static t:Z
 
-.field private static u:Z = false
+.field private static u:Z
 
 .field private static x:Lio/branch/referral/Branch$CUSTOM_REFERRABLE_SETTINGS;
 

@@ -48,51 +48,51 @@
 
 .field public static c:Ljava/lang/String; = ""
 
-.field public static d:Lorg/json/JSONObject; = null
+.field public static d:Lorg/json/JSONObject;
 
-.field public static e:Ljava/lang/String; = null
+.field public static e:Ljava/lang/String;
 
-.field public static f:Ljava/util/Locale; = null
+.field public static f:Ljava/util/Locale;
 
-.field public static g:Lcom/utilities/Util$b; = null
+.field public static g:Lcom/utilities/Util$b;
 
-.field private static h:Landroid/graphics/Typeface; = null
+.field private static h:Landroid/graphics/Typeface;
 
-.field private static i:Landroid/graphics/Typeface; = null
+.field private static i:Landroid/graphics/Typeface;
 
-.field private static j:Landroid/graphics/Typeface; = null
+.field private static j:Landroid/graphics/Typeface;
 
-.field private static k:Landroid/graphics/Typeface; = null
+.field private static k:Landroid/graphics/Typeface;
 
-.field private static l:Landroid/graphics/Typeface; = null
+.field private static l:Landroid/graphics/Typeface;
 
-.field private static m:Landroid/graphics/Typeface; = null
+.field private static m:Landroid/graphics/Typeface;
 
-.field private static n:Landroid/graphics/Typeface; = null
+.field private static n:Landroid/graphics/Typeface;
 
-.field private static o:Landroid/graphics/Typeface; = null
+.field private static o:Landroid/graphics/Typeface;
 
-.field private static p:Landroid/graphics/Typeface; = null
+.field private static p:Landroid/graphics/Typeface;
 
-.field private static q:Landroid/graphics/Typeface; = null
+.field private static q:Landroid/graphics/Typeface;
 
-.field private static r:Landroid/graphics/Typeface; = null
+.field private static r:Landroid/graphics/Typeface;
 
-.field private static s:Landroid/graphics/Typeface; = null
+.field private static s:Landroid/graphics/Typeface;
 
-.field private static t:Landroid/graphics/Typeface; = null
+.field private static t:Landroid/graphics/Typeface;
 
-.field private static u:Landroid/net/ConnectivityManager; = null
+.field private static u:Landroid/net/ConnectivityManager;
 
-.field private static v:Landroid/app/ProgressDialog; = null
+.field private static v:Landroid/app/ProgressDialog;
 
-.field private static w:[Lcom/library/helpers/Enums$ConnectionType; = null
+.field private static w:[Lcom/library/helpers/Enums$ConnectionType;
 
-.field private static x:Ljava/lang/String; = null
+.field private static x:Ljava/lang/String;
 
-.field private static y:Z = false
+.field private static y:Z
 
-.field private static z:Z = false
+.field private static z:Z
 
 
 # direct methods

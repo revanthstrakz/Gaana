@@ -4,11 +4,11 @@
 
 
 # static fields
-.field private static _INSTANCE:Lcom/moe/pushlibrary/MoEHelper; = null
+.field private static _INSTANCE:Lcom/moe/pushlibrary/MoEHelper;
 
-.field private static activityCounter:I = 0x0
+.field private static activityCounter:I
 
-.field private static isAutoIntegration:Z = false
+.field private static isAutoIntegration:Z
 
 
 # instance fields

@@ -14,9 +14,9 @@
 
 .field private static e:Ljava/lang/String; = ""
 
-.field private static f:Ljava/util/concurrent/atomic/AtomicBoolean; = null
+.field private static f:Ljava/util/concurrent/atomic/AtomicBoolean;
 
-.field private static g:Z = false
+.field private static g:Z
 
 
 # direct methods

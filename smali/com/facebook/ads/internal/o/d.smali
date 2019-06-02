@@ -13,11 +13,11 @@
 # static fields
 .field private static final a:Ljava/lang/String; = "d"
 
-.field private static b:D = 0.0
+.field private static b:D
 
-.field private static c:Ljava/lang/String; = null
+.field private static c:Ljava/lang/String;
 
-.field private static volatile d:Z = false
+.field private static volatile d:Z
 
 .field private static h:Lcom/facebook/ads/internal/o/c;
     .annotation build Landroid/annotation/SuppressLint;

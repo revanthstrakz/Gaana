@@ -16,7 +16,7 @@
 
 
 # static fields
-.field private static mImpressionAnalyticsRecorded:Z = false
+.field private static mImpressionAnalyticsRecorded:Z
 
 
 # instance fields

@@ -6,7 +6,7 @@
 # static fields
 .field public static a:Ljava/lang/String; = ""
 
-.field static b:Z = false
+.field static b:Z
 
 
 # direct methods

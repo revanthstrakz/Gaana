@@ -12,11 +12,11 @@
 
 
 # static fields
-.field private static a:Landroid/graphics/Typeface; = null
+.field private static a:Landroid/graphics/Typeface;
 
-.field private static b:Lcom/helpshift/views/f; = null
+.field private static b:Lcom/helpshift/views/f;
 
-.field private static c:Z = false
+.field private static c:Z
 
 
 # direct methods

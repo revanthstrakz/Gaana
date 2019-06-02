@@ -9,7 +9,7 @@
 # static fields
 .field public static final LAUNCH_EMAIL_LOGIN_SCREEN:Ljava/lang/String; = "email_login"
 
-.field public static isSignupFromInside:Z = false
+.field public static isSignupFromInside:Z
 
 
 # instance fields

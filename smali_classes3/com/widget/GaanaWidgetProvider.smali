@@ -4,7 +4,7 @@
 
 
 # static fields
-.field static b:Z = false
+.field static b:Z
 
 .field public static c:Lcom/gaana/models/Tracks$Track;
 

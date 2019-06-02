@@ -7,7 +7,7 @@
 
 .field private static b:D = 1.0
 
-.field private static c:Z = false
+.field private static c:Z
 
 .field private static final d:Ljava/util/Set;
     .annotation system Ldalvik/annotation/Signature;

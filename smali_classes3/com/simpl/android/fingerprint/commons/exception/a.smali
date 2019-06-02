@@ -17,7 +17,7 @@
 
 .field private static c:Ljava/lang/String; = "unknown"
 
-.field private static d:Ljava/util/Map; = null
+.field private static d:Ljava/util/Map;
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/Map<",
@@ -28,13 +28,13 @@
     .end annotation
 .end field
 
-.field private static e:Ljava/lang/String; = null
+.field private static e:Ljava/lang/String;
 
-.field private static f:Z = false
+.field private static f:Z
 
-.field private static g:Ljava/lang/String; = null
+.field private static g:Ljava/lang/String;
 
-.field private static h:Z = false
+.field private static h:Z
 
 
 # direct methods

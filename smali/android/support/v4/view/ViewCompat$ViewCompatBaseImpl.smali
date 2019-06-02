@@ -15,7 +15,7 @@
 
 
 # static fields
-.field static sAccessibilityDelegateCheckFailed:Z = false
+.field static sAccessibilityDelegateCheckFailed:Z
 
 .field static sAccessibilityDelegateField:Ljava/lang/reflect/Field;
 

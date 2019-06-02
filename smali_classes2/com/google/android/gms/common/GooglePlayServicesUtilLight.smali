@@ -55,19 +55,19 @@
     .end annotation
 .end field
 
-.field private static zzah:Z = false
+.field private static zzah:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field
 
-.field private static zzai:Z = false
+.field private static zzai:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field
 
-.field private static zzaj:Z = false
+.field private static zzaj:Z
 
-.field private static zzak:Z = false
+.field private static zzak:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field

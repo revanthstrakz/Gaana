@@ -17,7 +17,7 @@
 
 
 # static fields
-.field public static a:Z = false
+.field public static a:Z
 
 
 # instance fields

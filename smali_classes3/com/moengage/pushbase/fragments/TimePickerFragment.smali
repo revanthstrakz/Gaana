@@ -7,7 +7,7 @@
 
 
 # static fields
-.field private static timeDialogShown:Z = false
+.field private static timeDialogShown:Z
 
 
 # instance fields

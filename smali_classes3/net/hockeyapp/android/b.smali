@@ -4,15 +4,15 @@
 
 
 # static fields
-.field private static a:Ljava/lang/String; = null
+.field private static a:Ljava/lang/String;
 
-.field private static b:Ljava/lang/String; = null
+.field private static b:Ljava/lang/String;
 
-.field private static c:Z = false
+.field private static c:Z
 
-.field private static d:J = 0x0L
+.field private static d:J
 
-.field private static e:Z = false
+.field private static e:Z
 
 
 # direct methods

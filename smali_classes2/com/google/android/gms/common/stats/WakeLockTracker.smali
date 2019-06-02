@@ -8,11 +8,11 @@
 
 
 # static fields
-.field private static zzgb:Lcom/google/android/gms/common/stats/WakeLockTracker; = null
+.field private static zzgb:Lcom/google/android/gms/common/stats/WakeLockTracker;
 
-.field private static zzgc:Ljava/lang/Boolean; = null
+.field private static zzgc:Ljava/lang/Boolean;
 
-.field private static zzgd:Z = false
+.field private static zzgd:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field

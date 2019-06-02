@@ -89,11 +89,11 @@
 
 .field public static final TAG_USER_NAME:Ljava/lang/String; = "username"
 
-.field public static isSimplInitialized:Z = false
+.field public static isSimplInitialized:Z
 
-.field private static mLoginManager:Lcom/gaana/login/LoginManager; = null
+.field private static mLoginManager:Lcom/gaana/login/LoginManager;
 
-.field private static userStatusUpdateInProgress:Z = false
+.field private static userStatusUpdateInProgress:Z
 
 
 # instance fields

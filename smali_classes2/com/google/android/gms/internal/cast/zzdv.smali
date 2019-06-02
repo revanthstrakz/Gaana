@@ -57,7 +57,7 @@
 
 .field private static final zzzl:Ljava/lang/String;
 
-.field private static zzzm:Z = false
+.field private static zzzm:Z
 
 
 # direct methods

@@ -3,7 +3,7 @@
 
 
 # static fields
-.field private static zziu:Z = false
+.field private static zziu:Z
 
 .field private static zziv:Ljava/security/MessageDigest;
 

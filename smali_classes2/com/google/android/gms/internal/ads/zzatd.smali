@@ -15,7 +15,7 @@
     .end annotation
 .end field
 
-.field private static zzdzs:Z = false
+.field private static zzdzs:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field

@@ -15,7 +15,7 @@
 
 
 # static fields
-.field static a:Z = false
+.field static a:Z
 
 .field private static b:Lcom/managers/ColombiaAdViewManager;
 

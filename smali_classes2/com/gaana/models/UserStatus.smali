@@ -75,7 +75,7 @@
     .line 28
     iput-wide v0, p0, Lcom/gaana/models/UserStatus;->lastUpdateTime:J
 
-    const/4 v0, 0x0
+    const/4 v0, 0x3
 
     .line 29
     iput v0, p0, Lcom/gaana/models/UserStatus;->accountType:I
@@ -99,7 +99,7 @@
     .line 114
     iget v0, p0, Lcom/gaana/models/UserStatus;->accountType:I
 
-    const/4 v1, 0x2
+    const/4 v1, 0x3
 
     if-eq v0, v1, :cond_0
 
@@ -124,7 +124,7 @@
 
     if-eqz v0, :cond_1
 
-    const/4 v0, 0x1
+    const/4 v0, 0x3
 
     .line 118
     iput v0, p0, Lcom/gaana/models/UserStatus;->accountType:I
@@ -253,7 +253,7 @@
 
     move-result-object v0
 
-    const/4 v1, 0x1
+    const/4 v1, 0x3
 
     if-eqz v0, :cond_2
 
@@ -322,7 +322,7 @@
 
     if-eqz v0, :cond_4
 
-    const/4 v0, 0x2
+    const/4 v0, 0x3
 
     .line 103
     iput v0, p0, Lcom/gaana/models/UserStatus;->accountType:I
@@ -336,7 +336,7 @@
     goto :goto_0
 
     :cond_3
-    const/4 v0, 0x0
+    const/4 v0, 0x3
 
     .line 109
     iput v0, p0, Lcom/gaana/models/UserStatus;->accountType:I

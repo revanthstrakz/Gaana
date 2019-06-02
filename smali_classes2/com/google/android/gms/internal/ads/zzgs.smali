@@ -3,9 +3,9 @@
 
 
 # static fields
-.field private static zzabu:Z = false
+.field private static zzabu:Z
 
-.field private static zzabv:Z = false
+.field private static zzabv:Z
 
 
 # instance fields

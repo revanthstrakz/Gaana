@@ -6,9 +6,9 @@
 # static fields
 .field private static final a:Ljava/lang/String; = "z"
 
-.field private static final b:Z = false
+.field private static final b:Z
 
-.field private static c:Z = false
+.field private static c:Z
 
 
 # direct methods

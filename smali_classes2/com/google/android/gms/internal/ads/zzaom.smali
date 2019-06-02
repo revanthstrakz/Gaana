@@ -10,12 +10,12 @@
 # static fields
 .field private static final sLock:Ljava/lang/Object;
 
-.field private static zzdqn:Z = false
+.field private static zzdqn:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field
 
-.field private static zztd:Z = false
+.field private static zztd:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field

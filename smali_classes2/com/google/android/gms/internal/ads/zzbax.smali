@@ -8,17 +8,17 @@
 
 
 # static fields
-.field private static sLock:Ljava/lang/Object; = null
+.field private static sLock:Ljava/lang/Object;
 
-.field private static zzbrs:Lcom/google/android/gms/common/util/Clock; = null
+.field private static zzbrs:Lcom/google/android/gms/common/util/Clock;
 
-.field private static zzeom:Z = false
+.field private static zzeom:Z
     .annotation build Landroid/support/annotation/GuardedBy;
         value = "sLock"
     .end annotation
 .end field
 
-.field private static zzeon:Z = false
+.field private static zzeon:Z
     .annotation build Landroid/support/annotation/GuardedBy;
         value = "sLock"
     .end annotation

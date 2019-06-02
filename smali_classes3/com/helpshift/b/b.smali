@@ -13,9 +13,9 @@
 
 
 # static fields
-.field private static d:Z = false
+.field private static d:Z
 
-.field private static e:Z = false
+.field private static e:Z
 
 
 # instance fields

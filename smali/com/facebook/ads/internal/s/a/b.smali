@@ -3,9 +3,9 @@
 
 
 # static fields
-.field private static a:Z = false
+.field private static a:Z
 
-.field private static b:Z = false
+.field private static b:Z
 
 
 # direct methods

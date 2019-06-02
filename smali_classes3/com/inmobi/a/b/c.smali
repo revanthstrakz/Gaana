@@ -14,7 +14,7 @@
 # static fields
 .field private static final a:Ljava/lang/String; = "c"
 
-.field private static b:Landroid/content/Context; = null
+.field private static b:Landroid/content/Context;
     .annotation build Landroid/annotation/SuppressLint;
         value = {
             "StaticFieldLeak"
@@ -22,11 +22,11 @@
     .end annotation
 .end field
 
-.field private static c:Lcom/inmobi/a/b/c$a; = null
+.field private static c:Lcom/inmobi/a/b/c$a;
 
-.field private static d:Landroid/os/Handler; = null
+.field private static d:Landroid/os/Handler;
 
-.field private static e:Z = false
+.field private static e:Z
 
 .field private static final f:Landroid/content/IntentFilter;
 

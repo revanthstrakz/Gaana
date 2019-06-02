@@ -4236,46 +4236,6 @@
 
     move-result-object v0
 
-    invoke-virtual {v0}, Ljava/util/Date;->getTime()J
-
-    move-result-wide v0
-
-    new-instance v2, Ljava/util/Date;
-
-    invoke-direct {v2}, Ljava/util/Date;-><init>()V
-
-    invoke-virtual {v2}, Ljava/util/Date;->getTime()J
-
-    move-result-wide v4
-
-    sub-long v6, v0, v4
-
-    long-to-double v0, v6
-
-    const-wide v4, 0x4194997000000000L    # 8.64E7
-
-    div-double/2addr v0, v4
-
-    const-wide/high16 v4, 0x3fe0000000000000L    # 0.5
-
-    add-double/2addr v0, v4
-
-    double-to-int v0, v0
-
-    const/4 v1, 0x5
-
-    if-ne v0, v1, :cond_3
-
-    const/4 v0, 0x0
-
-    .line 1376
-    invoke-static {p1, v3, v0}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
-
-    move-result-object p1
-
-    invoke-virtual {p1}, Landroid/widget/Toast;->show()V
-
-    :cond_3
     return-void
 .end method
 

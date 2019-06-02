@@ -7,7 +7,7 @@
 
 
 # static fields
-.field private static dateDialogShown:Z = false
+.field private static dateDialogShown:Z
 
 
 # instance fields

@@ -22,7 +22,7 @@
 # static fields
 .field private static final synthetic $VALUES:[Lnet/jpountz/util/Native;
 
-.field private static loaded:Z = false
+.field private static loaded:Z
 
 
 # direct methods

@@ -24,7 +24,7 @@
 
 
 # static fields
-.field private static b:Z = false
+.field private static b:Z
 
 .field private static c:Ljava/lang/Integer;
     .annotation build Landroid/support/annotation/Nullable;

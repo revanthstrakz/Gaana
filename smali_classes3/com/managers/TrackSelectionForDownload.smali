@@ -12,7 +12,7 @@
 
 
 # static fields
-.field public static a:Z = false
+.field public static a:Z
 
 .field private static b:Lcom/managers/TrackSelectionForDownload;
 

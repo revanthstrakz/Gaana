@@ -3,7 +3,7 @@
 
 
 # static fields
-.field private static zzzn:Z = false
+.field private static zzzn:Z
 
 
 # instance fields

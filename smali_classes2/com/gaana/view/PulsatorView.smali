@@ -32,9 +32,9 @@
 
 .field public static final INTERP_DECELERATE:I = 0x2
 
-.field public static final INTERP_LINEAR:I = 0x0
+.field public static final INTERP_LINEAR:I
 
-.field private static isCompletedCycle:Z = false
+.field private static isCompletedCycle:Z
 
 
 # instance fields

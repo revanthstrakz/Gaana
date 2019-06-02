@@ -5,11 +5,11 @@
 # static fields
 .field private static final TAG:Ljava/lang/String; = "zzcs"
 
-.field private static startTime:J = 0x0L
+.field private static startTime:J
 
 .field private static final zzrn:Ljava/lang/Object;
 
-.field private static zzro:Z = false
+.field private static zzro:Z
     .annotation build Landroid/support/annotation/VisibleForTesting;
     .end annotation
 .end field

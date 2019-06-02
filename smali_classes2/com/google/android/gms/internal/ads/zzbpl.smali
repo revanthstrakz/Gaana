@@ -20,7 +20,7 @@
 
 
 # static fields
-.field private static zzfky:Z = false
+.field private static zzfky:Z
 
 
 # instance fields

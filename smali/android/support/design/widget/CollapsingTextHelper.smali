@@ -4,7 +4,7 @@
 
 
 # static fields
-.field private static final DEBUG_DRAW:Z = false
+.field private static final DEBUG_DRAW:Z
 
 .field private static final DEBUG_DRAW_PAINT:Landroid/graphics/Paint;
 

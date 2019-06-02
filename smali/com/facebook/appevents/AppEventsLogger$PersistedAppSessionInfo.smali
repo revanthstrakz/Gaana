@@ -19,7 +19,7 @@
 
 .field private static final appSessionInfoFlushRunnable:Ljava/lang/Runnable;
 
-.field private static appSessionInfoMap:Ljava/util/Map; = null
+.field private static appSessionInfoMap:Ljava/util/Map;
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/Map<",
@@ -30,9 +30,9 @@
     .end annotation
 .end field
 
-.field private static hasChanges:Z = false
+.field private static hasChanges:Z
 
-.field private static isLoaded:Z = false
+.field private static isLoaded:Z
 
 .field private static final staticLock:Ljava/lang/Object;
 

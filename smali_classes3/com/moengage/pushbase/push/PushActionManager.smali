@@ -12,9 +12,9 @@
 
 
 # static fields
-.field private static _INSTANCE:Lcom/moengage/pushbase/push/PushActionManager; = null
+.field private static _INSTANCE:Lcom/moengage/pushbase/push/PushActionManager;
 
-.field public static dialogShown:Z = false
+.field public static dialogShown:Z
 
 
 # instance fields

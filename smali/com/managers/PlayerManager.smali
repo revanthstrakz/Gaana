@@ -14,11 +14,11 @@
 
 
 # static fields
-.field private static F:Lcom/models/PlayerTrack; = null
+.field private static F:Lcom/models/PlayerTrack;
 
-.field public static a:Z = false
+.field public static a:Z
 
-.field public static b:Z = false
+.field public static b:Z
 
 .field private static d:Lcom/managers/PlayerManager;
 

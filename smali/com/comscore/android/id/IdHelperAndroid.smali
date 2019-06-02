@@ -11,9 +11,9 @@
 
 .field private static final b:Ljava/lang/String; = "com.google.android.gms.ads.identifier.service.START"
 
-.field private static c:Z = false
+.field private static c:Z
 
-.field private static final d:Z = false
+.field private static final d:Z
 
 
 # direct methods

@@ -25,7 +25,7 @@
 
 .field private static final URL_QUERY_PARAM_SEPARATOR:Ljava/lang/String; = "?"
 
-.field private static androidIDRetrieved:Z = false
+.field private static androidIDRetrieved:Z
 
 
 # instance fields

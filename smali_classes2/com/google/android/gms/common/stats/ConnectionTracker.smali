@@ -10,9 +10,9 @@
 # static fields
 .field private static final zzdp:Ljava/lang/Object;
 
-.field private static volatile zzfa:Lcom/google/android/gms/common/stats/ConnectionTracker; = null
+.field private static volatile zzfa:Lcom/google/android/gms/common/stats/ConnectionTracker;
 
-.field private static zzfb:Z = false
+.field private static zzfb:Z
     .annotation build Lcom/google/android/gms/common/util/VisibleForTesting;
     .end annotation
 .end field

@@ -20,7 +20,7 @@
 
 .field private static final h:Landroid/os/Handler;
 
-.field private static i:Z = false
+.field private static i:Z
 
 
 # instance fields

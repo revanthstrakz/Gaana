@@ -17,7 +17,7 @@
 
 
 # static fields
-.field private static g:Z = false
+.field private static g:Z
 
 .field private static i:Lcom/google/ads/interactivemedia/v3/internal/jh;
 

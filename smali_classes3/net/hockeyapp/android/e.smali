@@ -4,9 +4,9 @@
 
 
 # static fields
-.field private static a:Landroid/content/BroadcastReceiver; = null
+.field private static a:Landroid/content/BroadcastReceiver;
 
-.field private static b:Z = false
+.field private static b:Z
 
 .field private static c:Ljava/lang/String;
 

@@ -15,7 +15,7 @@
 # static fields
 .field private static final a:Ljava/lang/String; = "a"
 
-.field private static b:Ljava/util/List; = null
+.field private static b:Ljava/util/List;
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/List<",
@@ -25,9 +25,9 @@
     .end annotation
 .end field
 
-.field private static c:Ljava/lang/Object; = null
+.field private static c:Ljava/lang/Object;
 
-.field private static d:Z = false
+.field private static d:Z
 
 .field private static e:Landroid/os/HandlerThread;
 

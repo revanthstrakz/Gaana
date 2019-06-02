@@ -12,9 +12,9 @@
 
 .field private static TAG:Ljava/lang/String; = "LocalMediaManager"
 
-.field private static mLocalMediaManager:Lcom/gaana/localmedia/LocalMediaManager; = null
+.field private static mLocalMediaManager:Lcom/gaana/localmedia/LocalMediaManager;
 
-.field private static mediaIdAndHashMapping:Ljava/util/HashMap; = null
+.field private static mediaIdAndHashMapping:Ljava/util/HashMap;
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/HashMap<",
@@ -25,9 +25,9 @@
     .end annotation
 .end field
 
-.field public static setAlbumFlagIsDirty:Z = false
+.field public static setAlbumFlagIsDirty:Z
 
-.field public static setArtistFlagIsDirty:Z = false
+.field public static setArtistFlagIsDirty:Z
 
 .field public static setPlaylistFlagIsDirty:Z
 

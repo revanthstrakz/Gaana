@@ -3,7 +3,7 @@
 
 
 # static fields
-.field private static volatile zzgm:Z = false
+.field private static volatile zzgm:Z
 
 .field private static final zzgn:Ljava/lang/Class;
     .annotation system Ldalvik/annotation/Signature;

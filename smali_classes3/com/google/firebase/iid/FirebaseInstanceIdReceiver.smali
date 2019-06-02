@@ -3,7 +3,7 @@
 
 
 # static fields
-.field private static zzbf:Z = false
+.field private static zzbf:Z
 
 .field private static zzbg:Lcom/google/firebase/iid/zzh;
 

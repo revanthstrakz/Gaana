@@ -15,9 +15,9 @@
 
 
 # static fields
-.field public static a:Z = false
+.field public static a:Z
 
-.field private static n:Ljava/util/List; = null
+.field private static n:Ljava/util/List;
     .annotation system Ldalvik/annotation/Signature;
         value = {
             "Ljava/util/List<",
@@ -27,7 +27,7 @@
     .end annotation
 .end field
 
-.field private static r:Z = false
+.field private static r:Z
 
 .field private static u:Ljava/lang/String;
 

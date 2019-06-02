@@ -12,11 +12,11 @@
 
 
 # static fields
-.field private static a:Lcom/helpshift/support/e/a; = null
+.field private static a:Lcom/helpshift/support/e/a;
 
-.field private static b:Z = false
+.field private static b:Z
 
-.field private static c:Z = false
+.field private static c:Z
 
 .field private static d:Ljava/util/HashMap;
     .annotation system Ldalvik/annotation/Signature;

@@ -15,9 +15,9 @@
 # static fields
 .field private static final TAG:Ljava/lang/String; = "PlaylistSyncManager"
 
-.field private static mPlaylistSyncManager:Lcom/gaana/localmedia/PlaylistSyncManager; = null
+.field private static mPlaylistSyncManager:Lcom/gaana/localmedia/PlaylistSyncManager;
 
-.field public static refreshFragment:Z = false
+.field public static refreshFragment:Z
 
 
 # instance fields
